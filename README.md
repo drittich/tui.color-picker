@@ -12,31 +12,31 @@
 
 ## 🚩 Table of Contents
 
-- [Collect statistics on the use of open source](#collect-statistics-on-the-use-of-open-source)
-- [📙 Documents](#-documents)
-- [🎨 Features](#-features)
-- [🐾 Examples](#-examples)
-- [💾 Install](#-install)
-  - [Via Package Manager](#via-package-manager)
-    - [npm](#npm)
-    - [bower](#bower)
-  - [Via Contents Delivery Network (CDN)](#via-contents-delivery-network-cdn)
-  - [Download Source Files](#download-source-files)
-- [🔨 Usage](#-usage)
-  - [HTML](#html)
-  - [JavaScript](#javascript)
-    - [Using namespace in browser environment](#using-namespace-in-browser-environment)
-    - [Using module format in node environment](#using-module-format-in-node-environment)
-- [🔧 Pull Request Steps](#-pull-request-steps)
-  - [Setup](#setup)
-  - [Develop](#develop)
-    - [Running dev server](#running-dev-server)
-    - [Running test](#running-test)
-- [🌏 Browser Support](#-browser-support)
-- [🔧 Pull Request Steps](#-pull-request-steps-1)
-- [💬 Contributing](#-contributing)
-- [🍞 TOAST UI Family](#-toast-ui-family)
-- [📜 License](#-license)
+	- [Collect statistics on the use of open source](#collect-statistics-on-the-use-of-open-source)
+	- [📙 Documents](#-documents)
+	- [🎨 Features](#-features)
+	- [🐾 Examples](#-examples)
+	- [💾 Install](#-install)
+		- [Via Package Manager](#via-package-manager)
+			- [npm](#npm)
+			- [bower](#bower)
+		- [Via Contents Delivery Network (CDN)](#via-contents-delivery-network-cdn)
+		- [Download Source Files](#download-source-files)
+	- [🔨 Usage](#-usage)
+		- [HTML](#html)
+		- [JavaScript](#javascript)
+			- [Using namespace in browser environment](#using-namespace-in-browser-environment)
+			- [Using module format in node environment](#using-module-format-in-node-environment)
+	- [🔧 Pull Request Steps](#-pull-request-steps)
+		- [Setup](#setup)
+		- [Develop](#develop)
+			- [Running dev server](#running-dev-server)
+			- [Running test](#running-test)
+	- [🌏 Browser Support](#-browser-support)
+	- [🔧 Pull Request Steps](#-pull-request-steps-1)
+	- [💬 Contributing](#-contributing)
+	- [🍞 TOAST UI Family](#-toast-ui-family)
+	- [📜 License](#-license)
 
 
 ## Collect statistics on the use of open source
@@ -218,7 +218,7 @@ $ npm run test
 ## 🌏 Browser Support
 | <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> Internet Explorer | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox |
 | :---------: | :---------: | :---------: | :---------: | :---------: |
-| Yes | 8+ | Yes | Yes | Yes |
+| Yes | 9+ | Yes | Yes | Yes |
 
 
 ## 🔧 Pull Request Steps
